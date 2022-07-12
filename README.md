@@ -1,2 +1,1 @@
-# sample_website
-Creates a basic webpage
+This is entirely a way for me to experiment and explore web development in a way that I will be able to view online and share with others. I am a beginner and at this point anything on here is going to be very crudley written. If you choose to follow this journey expect rudimentary web designs, syntax issues, and things that just don't make sense. Enjoy. 
